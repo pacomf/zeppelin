@@ -14,11 +14,7 @@ title: "8 Conferencias Lleida Drone"
 email: "lleidadrone@gmail.com"
 description: "8 Conferencias Profesionales y Amateur de Lleida Drone con Launchpad de Startups Drone"
 baseurl: "/zeppelin"
-<<<<<<< Updated upstream
-url: "http://gdg-x.github.io"
-=======
 url: "https://pacomf.github.io"
->>>>>>> Stashed changes
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -54,15 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-<<<<<<< Updated upstream
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-=======
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
->>>>>>> Stashed changes
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -71,13 +61,8 @@ eventDate: "30-31 Enero 2015"
 typeoutTextValues: '"", "Profesionales", "Amateur", "Startups"'
 typeoutFallback: "Profesionales"
 heroButtons:
-<<<<<<< Updated upstream
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
-=======
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Conseguir Entrada"}
->>>>>>> Stashed changes
 
 # About Block
 aboutTitle: "8 Conferencias LleidaDrone"
@@ -140,17 +125,11 @@ partnersTitle: "Colaboradores"
 #partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-<<<<<<< Updated upstream
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-=======
 #subscribeImage: "subscribe.jpg"
 #subscribeTitle: "Subscribe for updates"
 #subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
->>>>>>> Stashed changes
+
 
 # Tickets Block
 #ticketsTitle: "Pricetable"
