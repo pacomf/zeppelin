@@ -114,7 +114,7 @@ venueTitle: "Campus Madrid"
 venueFeatures: ["Google Space"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter-feed.jpeg"
 tweetsFeedTitle: "Hashtag:"
 twitterHashTag: "dronesCampusMadrid"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
